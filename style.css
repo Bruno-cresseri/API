@@ -1,0 +1,17 @@
+#api {
+    display: flex;
+}
+
+body {
+    background-image: url(./img/rick-morty.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+
+    color: white;
+}
+img {
+    border-radius: 10px;
+    padding-bottom: 40px;
+}
